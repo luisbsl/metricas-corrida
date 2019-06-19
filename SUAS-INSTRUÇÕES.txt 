@@ -1,0 +1,11 @@
+# Projeto para seleção de Backend Java
+
+Link da prova: https://github.com/Gympass/interview-test
+
+### Realizando os testes
+
+```mvn test```
+
+### Executando Projeto
+
+```mvn exec:java -Dexec.mainClass="com.gympassapply.main.Principal"````

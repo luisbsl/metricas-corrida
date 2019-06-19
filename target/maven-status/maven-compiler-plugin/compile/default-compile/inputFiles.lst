@@ -1,0 +1,16 @@
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/enums/ExtratorStringPadraoEnum.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/model/MetricaCorrida.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/model/builder/MetricaCorridaBuilder.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/model/Piloto.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/service/ImportadorCorridaService.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/util/ConversorTempoUtil.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/model/builder/VoltaBuilder.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/exception/ArquivoNaoEncontradoException.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/service/ExtratorDosDadosDaVoltaService.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/service/MetricaCorridaService.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/main/Principal.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/model/Volta.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/model/Corrida.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/exception/StringDeTempoInvalidaException.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/util/ExtratorStringUtil.java
+/Users/luislima/Development/workspace/projetos/leaderapp/gympassapply/src/main/java/com/gympassapply/exception/PadraoStringNaoEncontradoException.java
